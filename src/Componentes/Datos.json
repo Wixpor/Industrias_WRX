@@ -1,0 +1,43 @@
+[
+    {
+        "nombre": "Sticker Luka Mpdric",
+        "descripcion": "Lamina Panini Leyenda Croacia Lika Modric",
+        "cantidad": 1,
+        "imagen":"./Recursos/img1.jpg",
+        "usuario":"Luis",
+        "valor":"Alto"
+
+    },
+    {
+        "nombre": "Sticker Luis Suarez",
+        "descripcion": "Lamina Panini Leyenda Uruguay Luis Suarez",
+        "cantidad": 2,
+        "imagen":"./Recursos/img2.jpg",
+        "usuario":"Paula",
+        "valor":"Medio"
+    },
+    {
+        "nombre": "Libro Después",
+        "descripcion": "Después es una novela policial del escritor Stephen King. Fue publicada originalmente el 2 de marzo de 2021 en idioma inglés y el 21 de junio en idioma español.",
+        "cantidad": 3,
+        "imagen":"./Recursos/despues.webp",
+        "usuario":"Ariana",
+        "valor":"Alto"
+    },
+    {
+        "nombre": "Libro Dracula",
+        "descripcion": "Drácula, es una novela de fantasía gótica escrita por Bram Stoker, publicada en 1897. ​​ Publicada en castellano por Ediciones Hymsa bajo la colección ‘La novela aventura’ en 1935.",
+        "cantidad": 5,
+        "imagen":"./Recursos/dracula.webp",
+        "usuario":"Andres",
+        "valor":"Bajo"
+    },
+    {
+        "nombre": "Libro 22-11-63",
+        "descripcion": "es una novela de suspenso y ciencia ficción del escritor estadounidense Stephen King que narra la historia de Jacob Epping, un viajero en el tiempo que intenta evitar el asesinato del presidente John F. Kennedy.",
+        "cantidad": 2,
+        "imagen":"./Recursos/22-11-63.jpg",
+        "usuario":"Maria",
+        "valor":"Medio"
+    }
+]
